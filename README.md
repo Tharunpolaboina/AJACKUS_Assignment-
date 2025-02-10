@@ -34,7 +34,9 @@ A simple user management system built with React, Node.js, and SQLite.
    ```sh
    node server.js
    ```
-   The backend will run on `http://localhost:5000`.
+   The backend will run on `http://localhost:3030`.
+
+   Note: The backend is deployed on the render free deployment plaftform so, is may take some time to fetch or add Data to the DataBase. 
 
 ### Frontend Setup
 
